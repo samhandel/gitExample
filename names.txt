@@ -1,2 +1,3 @@
-boss, sahandel, Handel, Samuel
+role,NetID,LastName,FirstName
+boss,sahandel,Handel,Samuel
 employee,dmahant,Mahant,Dylan
